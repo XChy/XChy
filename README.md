@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/XChy/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XChy&layout=compact)](https://github.com/Christmas/github-readme-stats)
+![XChy's GitHub stats](https://github-readme-stats.vercel.app/api?username=XChy&show_icons=true&theme=tokyonight)
