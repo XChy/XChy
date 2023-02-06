@@ -28,7 +28,7 @@ Awesome githuber
 <p align="center">
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
     •
-    <b><a href="xchy.org">Blogs</a></b>
+    <b><a href="blog.xchy.org">Blogs</a></b>
 </p>
 
 <p align="center">
