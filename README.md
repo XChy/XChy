@@ -1,5 +1,5 @@
 <!--
-**younger-1/younger-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XChy/XChy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -28,7 +28,7 @@ Awesome githuber
 <p align="center">
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
     •
-    <b><a href="">Blogs(Not done)</a></b>
+    <b><a href="xchy.org">Blogs</a></b>
 </p>
 
 <p align="center">
