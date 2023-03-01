@@ -42,7 +42,8 @@ Awesome githuber
 
 <p align="center">
     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
-    <a href="https://ubuntu.com/"> <img src="https://img.shields.io/badge/ubuntu-%231793d1.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
+    <a href="https://https://llvm.org/"> <img src="https://img.shields.io/badge/llvm-%231793d1.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
+  <a href="https://ubuntu.com/"> <img src="https://img.shields.io/badge/llvm-%231793d1.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
