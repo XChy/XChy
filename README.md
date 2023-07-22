@@ -1,29 +1,12 @@
 <!--
-**XChy/XChy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=XChy&repo=topological-value-in-graph)
 ![My stats](https://github-readme-stats.vercel.app/api?username=XChy1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-Awesome githuber
-- https://github.com/XChy/XSharp
-- https://github.com/XChy/XEL
 -->
 
 <h1 align="center">
   Hey, I'm XChy!
 </h1>
-
-<!-- 
-<div align="center">
-    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div>
--->
 
 <p align="center">
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
@@ -51,7 +34,14 @@ Awesome githuber
 </p>
 
 ## 🌠Coding
-> the projects I'm working on
+> the stuffs I'm working on:
+- Learning everything related to computer science
+- Learning compilers, contributing to [LLVM](https://github.com/llvm/llvm-project) and develop my own programming language [XSharp](https://github.com/XChy/XSharp)
+- Learning OS/Architecture
+- Reseaching about RDW in VR
+- Contributing to some interesting projects
+  
+---
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 
