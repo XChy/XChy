@@ -36,9 +36,9 @@
 ## 🌠Coding
 > the stuffs I'm working on:
 - Learning everything related to computer science
-- Learning compilers, contributing to [LLVM](https://github.com/llvm/llvm-project) and develop my own programming language [XSharp](https://github.com/XChy/XSharp)
+- Learning compilers, contributing to [LLVM](https://github.com/llvm/llvm-project) and developing my own programming language [XSharp](https://github.com/XChy/XSharp)
 - Learning OS/Architecture
-- Reseaching about RDW in VR
+- Researching about RDW in VR
 - Contributing to some interesting projects
   
 ---
