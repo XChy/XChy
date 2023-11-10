@@ -1,9 +1,3 @@
-<!--
-- ⚡ Fun fact: ...
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=XChy&repo=topological-value-in-graph)
-![My stats](https://github-readme-stats.vercel.app/api?username=XChy1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
--->
-
 <h1 align="center">
   Hey, I'm XChy!
 </h1>
@@ -38,6 +32,7 @@
 - Learning everything related to computer science
 - Learning compilers, contributing to [LLVM](https://github.com/llvm/llvm-project) and developing my own programming language [XSharp](https://github.com/XChy/XSharp)
 - Learning OS/Architecture
+- Researching about Compiler Optimzation and Compiler Testing
 - Researching about RDW in VR
 - Contributing to some interesting projects
   
