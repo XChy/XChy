@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-    <b><a href="https://blog.xchy.org">Blog</a></b>
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/c-d07f4f.svg?&style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
