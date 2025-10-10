@@ -1,8 +1,7 @@
 ## I'm working on:
-- Contributing to [*LLVM*](https://github.com/llvm/llvm-project)
-- Learning formal things
-- Researching about *Compiler Optimzation* and *Compiler Testing*
-- Contributing to some interesting open-source projects
+- Contribute to LLVM and serve as the maintainer of the DFA Jump Threading pass.
+- Research about Compiler Optimization and Compiler Testing.
+- Intern at PLCT Lab for now.
   
 ---
 
